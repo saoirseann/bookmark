@@ -1,1 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 429.94 127.72"><g id="Layer_11" data-name="Layer 11"><rect width="429.94" height="127.72" fill="#5ebfbd"/></g><g id="Layer_10" data-name="Layer 10"><text transform="translate(-435.3 88.88)" font-size="80" fill="#fff" font-family="CenturyGothicPro, Century Gothic Pro" letter-spacing="-0.01em">B<tspan x="45.22" y="0" letter-spacing="-0.01em">o</tspan><tspan x="96.84" y="0" letter-spacing="0em">o</tspan><tspan x="148.86" y="0" letter-spacing="0.01em">k</tspan><tspan x="189.61" y="0" letter-spacing="0em">m</tspan><tspan x="264.45" y="0" letter-spacing="0.01em">a</tspan><tspan x="320.14" y="0" letter-spacing="0.01em">r</tspan><tspan x="345.2" y="0" letter-spacing="0.01em">k</tspan></text><text transform="translate(-3.33 79.36)" font-size="48" fill="#fff" font-family="CenturyGothicPro, Century Gothic Pro" letter-spacing="0em">B<tspan x="27.51" y="0" letter-spacing="0em">o</tspan><tspan x="58.85" y="0" letter-spacing="0em">o</tspan><tspan x="90.42" y="0" letter-spacing="0.01em">k</tspan><tspan x="115.2" y="0" letter-spacing="0.01em">m</tspan><tspan x="160.47" y="0" letter-spacing="0.02em">a</tspan><tspan x="194.21" y="0" letter-spacing="0.02em">r</tspan><tspan x="209.58" y="0" letter-spacing="0.01em">k</tspan></text><path d="M62.17,58.48a8.71,8.71,0,0,0-12.32,0" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 429.9 127.7" style="enable-background:new 0 0 429.9 127.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#5EBFBD;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'CenturyGothicPro';}
+	.st5{font-size:47.1889px;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st7{display:inline;fill:#FFFFFF;}
+	.st8{font-size:80px;}
+</style>
+<g id="Layer_2" class="st0">
+	<g id="Layer_11" class="st1">
+		<rect x="0" y="0.6" class="st2" width="429.9" height="127.7"/>
+	</g>
+</g>
+<g id="Layer_1">
+	<g id="Layer_10">
+		<text transform="matrix(1 0 0 1 89.4565 80.8826)" class="st3 st4 st5">B</text>
+		<text transform="matrix(1 0 0 1 116.5015 80.8826)" class="st3 st4 st5">o</text>
+		<text transform="matrix(1 0 0 1 147.3125 80.8826)" class="st3 st4 st5">o</text>
+		<text transform="matrix(1 0 0 1 178.3481 80.8826)" class="st3 st4 st5">k</text>
+		<text transform="matrix(1 0 0 1 202.7095 80.8826)" class="st3 st4 st5">m</text>
+		<text transform="matrix(1 0 0 1 247.2139 80.8826)" class="st3 st4 st5">a</text>
+		<text transform="matrix(1 0 0 1 280.3828 80.8826)" class="st3 st4 st5">r</text>
+		<text transform="matrix(1 0 0 1 295.4941 80.8826)" class="st3 st4 st5">k</text>
+		<path class="st6" d="M153.8,60.4c-3.3-3.3-8.8-3.3-12.1,0c0,0,0,0,0,0"/>
+	</g>
+</g>
+<g id="Layer_3" class="st0">
+	<text transform="matrix(1 0 0 1 -0.6298 89.98)" class="st7 st4 st8">B</text>
+	<text transform="matrix(1 0 0 1 44.5902 89.98)" class="st7 st4 st8">o</text>
+	<text transform="matrix(1 0 0 1 96.2102 89.98)" class="st7 st4 st8">o</text>
+	<text transform="matrix(1 0 0 1 148.2302 89.98)" class="st7 st4 st8">k</text>
+	<text transform="matrix(1 0 0 1 188.9802 89.98)" class="st7 st4 st8">m</text>
+	<text transform="matrix(1 0 0 1 263.8202 89.98)" class="st7 st4 st8">a</text>
+	<text transform="matrix(1 0 0 1 319.5102 89.98)" class="st7 st4 st8">r</text>
+	<text transform="matrix(1 0 0 1 344.5702 89.98)" class="st7 st4 st8">k</text>
+</g>
+</svg>

@@ -218,8 +218,7 @@ button:focus {
     border: none;
     padding: 0px;
     border-radius: 0px;
-    -webkit-box-shadow: 0px 10px 30px 0px rgba(115, 73, 251, 0.3);
-    box-shadow: 0px 10px 30px 0px rgba(115, 73, 251, 0.3);
+  
   }
 }
 
@@ -324,7 +323,7 @@ button:focus {
 }
 
 .top_menu {
-  background: #ec9d5f;
+  background: #5dbfbd;
 }
 
 .top_menu .float-left a {
@@ -3487,13 +3486,51 @@ h6 {
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 /* Feature Area css
-============================================================================================ */
-.feature_item {
-  -webkit-box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.08);
+============================================================================================ 
+-webkit-box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.08);
   box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.08);
   padding: 50px 30px;
   border-radius: 5px;
+  */
+.feature_item {
+  
+ height: 500px;
 }
+
+
+.feature_item .text-right {
+  width: calc(50% - 20px);
+  margin-left: 20px;
+  float: right;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+
+}
+
+
+.feature_item .img-left {
+ width: 50%;
+  float: left;
+}
+
+.feature_item .text-left {
+width: calc(50% - 20px);
+  margin-right: 20px;
+  float: left;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+
+}
+
+
+.feature_item .img-right{
+  width: 50%;
+  float: right;
+}
+
+
 
 .feature_item img {
   max-width: 250px;
@@ -3512,6 +3549,141 @@ h6 {
 .feature_item p {
   margin-bottom: 0px;
   margin-top: 50px
+}
+
+
+/* test */
+/* line 148, ../sass/screen.scss */
+body main {
+  max-width: 75%;
+  height: 100%;
+  margin: 0 auto;
+  padding-top: 50px;
+  position: relative;
+}
+/* line 154, ../sass/screen.scss */
+body main p {
+  font-size: 1.2em;
+  line-height: 1.4;
+}
+/* line 158, ../sass/screen.scss */
+body main h2 {
+  color: #6DCCCC;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.8em;
+}
+/* line 165, ../sass/screen.scss */
+
+/* line 169, ../sass/screen.scss */
+body main section {
+  position: relative;
+}
+/* line 171, ../sass/screen.scss */
+body main section .container {
+  height: 500px;
+}
+/* line 174, ../sass/screen.scss */
+body main section .container .img-right {
+  width: 50%;
+  float: right;
+}
+/* line 177, ../sass/screen.scss */
+body main section .container .img-right img {
+  max-width: 250px;
+  margin: 0 auto;
+  display: block;
+}
+/* line 184, ../sass/screen.scss */
+body main section .container .text-left {
+  width: calc(50% - 20px);
+  margin-right: 20px;
+  float: left;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+/* line 193, ../sass/screen.scss */
+body main section .container .img-left {
+  width: 50%;
+  float: left;
+}
+/* line 196, ../sass/screen.scss */
+body main section .container .img-left img {
+  max-width: 250px;
+  margin: 0 auto;
+  display: block;
+}
+/* line 203, ../sass/screen.scss */
+body main section .container .text-right {
+  width: calc(50% - 20px);
+  margin-left: 20px;
+  float: right;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+@media screen and (max-width: 767px) {
+  /* line 171, ../sass/screen.scss */
+  body main section .container {
+    height: 100%;
+  }
+  /* line 213, ../sass/screen.scss */
+  body main section .container .img-right {
+    float: none;
+    width: 100%;
+  }
+  /* line 216, ../sass/screen.scss */
+  body main section .container .img-right img {
+    margin: 0 auto;
+    display: block;
+  }
+  /* line 222, ../sass/screen.scss */
+  body main section .container .text-left {
+    float: none;
+    width: 100%;
+    top: 0;
+    transform: none;
+    margin-right: 0;
+  }
+  /* line 230, ../sass/screen.scss */
+  body main section .container .text-right {
+    float: none;
+    width: 100%;
+    top: 0;
+    transform: none;
+    margin-left: 0;
+  }
+  /* line 238, ../sass/screen.scss */
+  body main section .container .img-left {
+    float: none;
+    width: 100%;
+  }
+  /* line 241, ../sass/screen.scss */
+  body main section .container .img-left img {
+    margin: 0 auto;
+    display: block;
+  }
+  /* line 246, ../sass/screen.scss */
+  body main section .container p {
+    font-size: 1em;
+  }
+}
+@media screen and (max-width: 767px) {
+  /* line 148, ../sass/screen.scss */
+  body main {
+    max-width: 95%;
+  }
+  /* line 254, ../sass/screen.scss */
+  body main section {
+    margin-bottom: 50px;
+  }
+}
+@media screen and (max-width: 930px) {
+  /* line 148, ../sass/screen.scss */
+  body main {
+    max-width: 85%;
+  }
 }
 
 /* End Feature Area css
