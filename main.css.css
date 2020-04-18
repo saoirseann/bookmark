@@ -1,0 +1,75 @@
+body {
+    padding: 11vw;
+    padding-top: 50px;
+    background-color: #F8F8F8;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h2 { /*format heading - not necessarily needed for you */
+    font-family: 'Muli', sans-serif;
+	font-weight: 400;
+    color: #3DB769;
+    font-size: 40px;
+}
+
+h3 {
+        font-family: 'Muli', sans-serif;
+
+    font-weight: 400;
+    color: grey
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.wrapper2 {
+    height: 30vw;
+}
+
+
+div.masonry { /* Masonry container - Contains all tiles */
+
+     column-count: 3; /*Set the column count*/
+     -webkit-column-count: 3;
+     -moz-column-count: 3;
+    height: 100%;
+      width: 75vw; /*total width of 3 columns combined*/
+}
+
+
+div.tile { /* Masonry bricks or child elements */
+    background-color: #ffffff;
+    display: inline-block;
+    width:100%;   
+    margin: 0.5vw; /*white space around image */
+    text-align:center;
+    box-shadow: 5px 5px 5px #939393; /*create shadow effect for each tile */
+    
+}
+
+div.caption { /*define caption area */
+	background-color:#ffffff;
+	width: 100% ; /*same width size all images */
+	height:auto; /*height will be automatically adjusted to keep aspect ratio*/
+	box-sizing:border-box;
+	padding:5px;
+	overflow:hidden; /*hide caption if too long*/
+}
+
+
+
+/* Website */
+
+#website, #kickstarter, #video, #pdf, #launch, #backer, #colophon, #final, #blog, #viva {
+    width: 100%;
+    height: 100%;
+}
